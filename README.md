@@ -1,2 +1,2 @@
 # CSharp-Projects
-Storage for c# projects
+Storage for all C# projects
